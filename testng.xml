@@ -4,7 +4,6 @@
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="com.leafBot.testcases.TC003_CreateLead" />
-			<class name="com.leafBot.testcases.TC004_EditLead" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
